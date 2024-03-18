@@ -12,8 +12,6 @@
 
 "@flowingcode/google-map@^3.0.1":
   version "3.7.1"
-  resolved "https://registry.yarnpkg.com/@flowingcode/google-map/-/google-map-3.7.1.tgz#93db18bca3d262e46fdd94cf6c623d05846ef662"
-  integrity sha512-1RPtk0iJn6UwEO5ZebsB+NDDfScqn3m2n1otX77+VJWTpC6m9jJPaBJ+Ycm0Xju9RXD9e8z5F0Y7hsIWEKrhFw==
   dependencies:
     "@flowingcode/google-apis" "^3.0.1"
     "@googlemaps/markerclusterer" "^2.0.8"
